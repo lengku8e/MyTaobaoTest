@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\MyTaobaoTest\app\src\main\assets"><file name="play_display.png" path="D:\MyTaobaoTest\app\src\main\assets\play_display.png"/><file name="play_hide.png" path="D:\MyTaobaoTest\app\src\main\assets\play_hide.png"/></source></dataSet><dataSet config="debug"><source path="D:\MyTaobaoTest\app\src\debug\assets"/></dataSet></merger>

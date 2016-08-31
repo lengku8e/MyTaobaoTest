@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\kaifa\android-sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\MyTaobaoTest\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-4c25ae8bfc3499ee691912b1ced719a8d4a048e7.jar" />
+    </item>
+    <item
+        jar="D:\MyTaobaoTest\app\libs\aseo2.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="07cbe16c3e33aef277b253a8e8f452bda59c58ef">
+        <dex dex="D:\MyTaobaoTest\app\build\intermediates\pre-dexed\debug\aseo2-c32ba3f074dd0a55add17128bf17370ed920b7eb.jar" />
+    </item>
+    <item
+        jar="D:\MyTaobaoTest\app\libs\cu_volley.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="77faa9ffd189160d1e22c58fdf5eed0a9a08b816">
+        <dex dex="D:\MyTaobaoTest\app\build\intermediates\pre-dexed\debug\cu_volley-2d96aad6b79581b23ecfb356bc74536017c322e9.jar" />
+    </item>
+    <item
+        jar="D:\MyTaobaoTest\app\libs\httpcore.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="42fd0eaeee98eb9e1c8cfbcef742a34b54522c4c">
+        <dex dex="D:\MyTaobaoTest\app\build\intermediates\pre-dexed\debug\httpcore-84ec4a82f710767390d0a2d03668bfbee2bb7804.jar" />
+    </item>
+    <item
+        jar="D:\MyTaobaoTest\app\libs\core.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c6f3cdc572ddfd37a19f1c1fdb96cda324e8a12a">
+        <dex dex="D:\MyTaobaoTest\app\build\intermediates\pre-dexed\debug\core-128b3d26cf16c1cb844319b06e4a71cdbe3a8ba6.jar" />
+    </item>
+
+</items>
